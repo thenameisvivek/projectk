@@ -1,5 +1,5 @@
 
-import awss
+import aws
 import my changes
 
 def lambda_handler(event, context):
